@@ -1,4 +1,4 @@
-## Ola eu sou Geraldo Filho, criadora de conteúdo de programação e tecnologia!
+##Geraldo Filho - I am FRONT END JR!
 
 <div align="center">
   <a href="https://github.com/geraldotech">
