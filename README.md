@@ -1,4 +1,4 @@
-## Geraldo Filho - I am FRONT END JR!
+## Geraldo Filho - Eu sou um front-end em formação
 
 <div align="center">
   <a href="https://github.com/geraldotech">
