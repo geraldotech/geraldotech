@@ -1,4 +1,4 @@
-## Geraldo Filho - Eu sou um front-end em formação
+## Geraldo Filho - Front-end working in progress
 
 <div align="center">
   <a href="https://github.com/geraldotech"></a>
