@@ -1,4 +1,5 @@
 ## Geraldo Filho - Front-end working in progress
+### I create cheatsheets, technical how-to articles.
 
 <div align="center">
   <a href="https://github.com/geraldotech"></a>
