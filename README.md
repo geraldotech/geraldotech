@@ -1,5 +1,7 @@
-## Geraldo Filho - Front-end working in progress
-### I create cheatsheets, technical how-to articles.
+Hey 👋 
+My name is Geraldo Costa  
+I'm a Front-end working in progress, always open to new challenges and ready to face changes.  
+I create cheatsheets, technical how-to articles. 
 
 <div align="center">
   <a href="https://github.com/geraldotech"></a>
@@ -34,5 +36,5 @@
 geraldotech/geraldotech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-#### keyworks:
+#### keywords:
 #geraldotech #geraldev #geraldodev #geraldofilho.com
