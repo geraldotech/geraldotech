@@ -1,4 +1,4 @@
-Hey 👋 
+Hey 👋  
 My name is Geraldo Costa  
 I'm a Front-end working in progress, always open to new challenges and ready to face changes.  
 I create cheatsheets, technical how-to articles. 
