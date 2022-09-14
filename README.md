@@ -22,7 +22,7 @@ I create cheatsheets, technical how-to articles.
   ##
   
   <div>
-  <a href="https://instagram.com/geraldo.tech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gmapdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:geraldo.filho92@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/geraldo-petronilo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
@@ -37,4 +37,4 @@ geraldotech/geraldotech is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 #### keywords:
-#geraldotech #geraldev #geraldodev #geraldofilho.com
+#gmapdev #geraldev #geraldodev #geraldofilho.com
