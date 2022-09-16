@@ -6,9 +6,16 @@ I create cheatsheets, technical how-to articles.
 <div align="center">
   <a href="https://github.com/geraldotech"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geraldotech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldotech&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldotech&hide=html&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<!---
+old top lags:
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldotech&layout=compact&langs_count=7&theme=dark"/>
 
+url to get changes:
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html&layout=compact&langs_count=7&theme=nord&bg_color=0D1017&hide_border=true"/>
+
+--->
   
   <div style="display: inline_block"><br>
    <img align="center" alt="Geral-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
