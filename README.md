@@ -13,7 +13,7 @@ old top lags:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldotech&layout=compact&langs_count=7&theme=dark"/>
 
 url to get changes:
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html;php,Bachfile&layout=compact&langs_count=7&theme=nord&bg_color=0D1017&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html,php,bat&layout=compact&langs_count=7&theme=nord&bg_color=0D1017&hide_border=true"/>
 
 --->
   
