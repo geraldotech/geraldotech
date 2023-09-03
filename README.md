@@ -1,5 +1,5 @@
-Hey 👋  
-My name is Geraldo Costa  
+Hey 👋, I'm
+## Geraldo Costa  
 I'm a Front-end working in progress, always open to new challenges and ready to face changes.  
 I create cheatsheets, technical how-to articles. 
 
@@ -46,7 +46,9 @@ You can click the Preview link to take a look at your changes.
 
 ##
 
- <img
+Languages and Tools:
+
+   <img
       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
       alt="html logo"
     />
