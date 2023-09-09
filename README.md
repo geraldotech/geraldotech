@@ -5,16 +5,14 @@ I create cheatsheets, technical how-to articles.
 
 <div align="center">
   <a href="https://github.com/geraldotech"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geraldotech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldotech&hide=html,php,batchfile,c&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=geraldotech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldotech&hide=html,php,batchfile,c&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!---
 old top lags:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldotech&layout=compact&langs_count=7&theme=dark"/>
-
 url to get changes:
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html,php,bat&layout=compact&langs_count=7&theme=nord&bg_color=0D1017&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html,php,bat&layout=compact&langs_count=7&theme=nord&bg_color=0D1017&hide_border=true"/>
 --->
   
   <div style="display: inline_block"><br>
@@ -22,7 +20,7 @@ url to get changes:
   <img align="center" alt="Geral-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Geral-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Geral-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-       <img align="center" alt="Geral-CSS" height="30" width="65" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+   <img align="center" alt="Geral-CSS" height="30" width="65" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 </div>
  
@@ -44,11 +42,23 @@ geraldotech/geraldotech is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-##
+```diff
+! Geraldo Costa Filho
 
-## Tools:
++ SI
+> Sistemas de Informação
 
-<div align="center">
+- Bugs
+< Loves Front-end
+
+@@ position: absolute @@
+
+# sudo su
+```
+
+## 🛠 Tools:
+
+<p align="center">
      <img
       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
       alt="html logo"
@@ -69,26 +79,12 @@ You can click the Preview link to take a look at your changes.
       src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
       alt=""
     />
-  <img src="https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt=""
-</div>
+  <img src="https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="img"
+    
+</p>
 
 
 
 
 
-<div class="highlight highlight-source-diff notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="&lt">
-
-&gt; estudante de análise e desenvolvimento de sistemas
-&gt; conversa sobre tech e aleatoriedades;
-&gt; gosto de ouvir lofi para estudar.
-
-! ‍criadora de conteúdo de programação e tecnologia
-! apaixonada por front-end"><pre><span class="pl-md"><span class="pl-md">&lt;</span> Rayssa 'chuu vírus' ⭐</span>
-
-<span class="pl-mi1"><span class="pl-mi1">&gt;</span> estudante de análise e desenvolvimento de sistemas</span>
-<span class="pl-mi1"><span class="pl-mi1">&gt;</span> conversa sobre tech e aleatoriedades;</span>
-<span class="pl-mi1"><span class="pl-mi1">&gt;</span> gosto de ouvir lofi para estudar.</span>
-
-<span class="pl-mc"><span class="pl-mc">!</span> ‍criadora de conteúdo de programação e tecnologia</span>
-<span class="pl-mc"><span class="pl-mc">!</span> apaixonada por front-end</span></pre></div>
 
