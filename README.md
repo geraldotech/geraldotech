@@ -73,24 +73,22 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
 
-      <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
 
+
+<div class="highlight highlight-source-diff notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="&lt">
+
+&gt; estudante de análise e desenvolvimento de sistemas
+&gt; conversa sobre tech e aleatoriedades;
+&gt; gosto de ouvir lofi para estudar.
+
+! ‍criadora de conteúdo de programação e tecnologia
+! apaixonada por front-end"><pre><span class="pl-md"><span class="pl-md">&lt;</span> Rayssa 'chuu vírus' ⭐</span>
+
+<span class="pl-mi1"><span class="pl-mi1">&gt;</span> estudante de análise e desenvolvimento de sistemas</span>
+<span class="pl-mi1"><span class="pl-mi1">&gt;</span> conversa sobre tech e aleatoriedades;</span>
+<span class="pl-mi1"><span class="pl-mi1">&gt;</span> gosto de ouvir lofi para estudar.</span>
+
+<span class="pl-mc"><span class="pl-mc">!</span> ‍criadora de conteúdo de programação e tecnologia</span>
+<span class="pl-mc"><span class="pl-mc">!</span> apaixonada por front-end</span></pre></div>
 
