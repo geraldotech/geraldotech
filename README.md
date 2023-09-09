@@ -1,7 +1,10 @@
+<!--
 Hey 👋, I'm
 ## Geraldo Costa  
-I'm a Front-end working in progress, always open to new challenges and ready to face changes.  
+I'm a Front-end developer always open to new challenges and ready to face changes.  
 I create cheatsheets, technical how-to articles. 
+-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2c70ff&size=35&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Geraldo+Costa;I'm+30+years+old;I'm+a+front-end+Developer;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/geraldotech"></a>
