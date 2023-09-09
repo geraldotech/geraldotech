@@ -14,7 +14,7 @@ old top lags:
 url to get changes:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html,php,bat&layout=compact&langs_count=7&theme=nord&bg_color=0D1017&hide_border=true"/>
 --->
-  
+  <!---
   <div style="display: inline_block"><br>
    <img align="center" alt="Geral-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Geral-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,7 +23,7 @@ url to get changes:
    <img align="center" alt="Geral-CSS" height="30" width="65" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 </div>
- 
+ <!---
   ##
   
   <div>
