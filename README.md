@@ -34,17 +34,19 @@ url to get changes:
    &nbsp;
 
  ```diff
+
+# sudo apt update
 ! Geraldo Costa Filho
 
 + SI
 > Sistemas de Informação
 
-- Bugs
-< Loves Front-end
+- Loves Front-end
+< Bugs
 
 @@ position: absolute @@
 
-# sudo su
+
 ```
 
   &nbsp;
