@@ -1,6 +1,6 @@
 <!-- Hey 👋, I'm ### Hey there 👋
 ## Geraldo Costa  
-I'm a Front-end developer always open to new challenges and ready to face changes.   -->
+I'm a Full-stack developer always open to new challenges and ready to face changes.   -->
 ## 🖖🏻 Hello, I'm Geraldo, a Full-stack Developer & Technical Writer.
 
 ### always open to new challenges and ready to face changes.
