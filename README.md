@@ -93,18 +93,6 @@ url to get changes:
 </p>
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
- <p align="center">
-        <img
-          align="center"
-          src="https://profile-counter.glitch.me/{geraldotech}/count.svg"
-        />
-      </p>
-<br>
-</div>
-
-
 
 <!---
 geraldotech/geraldotech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
