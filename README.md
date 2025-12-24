@@ -1,7 +1,8 @@
 <!-- Hey 👋, I'm ### Hey there 👋
 ## Geraldo Costa  
 I'm a Front-end developer always open to new challenges and ready to face changes.   -->
-## 🖖🏻 Hello, I'm Geraldo, a Front-End Web Developer & Technical Writer.
+## 🖖🏻 Hello, I'm Geraldo, a Full-stack Developer & Technical Writer.
+
 ### always open to new challenges and ready to face changes.
 
 
