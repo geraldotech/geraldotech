@@ -44,14 +44,17 @@ url to get changes:
 # sudo apt update
 ! Geraldo Costa Filho
 
-+ SI
++ Full Stack Software Engineer
++ PHP | Python | JavaScript | MySQL
++ Automation & Business Systems
+
 > Sistemas de Informação
+> Building web systems, REST APIs and automation tools
 
-- Loves Front-end
-< Bugs
+- Bugs
+- Repetitive manual tasks
 
-@@ position: absolute @@
-
+@@ position: absolute; passion: relative; @@
 
 ```
 
