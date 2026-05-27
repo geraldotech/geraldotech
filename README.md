@@ -1,4 +1,4 @@
-<!-- Hey 👋, I'm ### Hey there 👋
+<!-- Hello, I'm Geraldo — Full Stack Software Engineer building automation tools, REST APIs and business systems. 👋
 ## Geraldo Costa  
 I'm a Full-stack developer always open to new challenges and ready to face changes.   -->
 ## 🖖🏻 Hello, I'm Geraldo, a Full-stack Developer & Technical Writer.
