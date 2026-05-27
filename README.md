@@ -3,7 +3,8 @@
 I'm a Full-stack developer always open to new challenges and ready to face changes.   -->
 ## 🖖🏻 Hello, I'm Geraldo, a Full-stack Developer & Technical Writer.
 
-### always open to new challenges and ready to face changes.
+ I'm from Brazil (🇧🇷). I've been working with technology for years, with a strong background in advanced computing, Linux servers, web development, automation and backend integrations.
+I'm a Full Stack Developer focused on building business systems, REST APIs and automation tools using PHP, Python, Flask, JavaScript and MySQL. I like turning complex problems into simple, useful and reliable software solutions.
 
 
 
