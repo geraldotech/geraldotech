@@ -9,11 +9,13 @@ I'm a Full-stack developer always open to new challenges and ready to face chang
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2c70ff&size=35&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Geraldo+Costa;I'm+a+front-end+Developer;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
+
 <div align="center">
+<!---
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldotech&hide=html,php,batchfile,c&layout=compact&langs_count=7&theme=dark"/> -->
 
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldotech&hide=html,php,batchfile,c&layout=compact&langs_count=7&theme=dark"/>
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=geraldotech&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 
