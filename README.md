@@ -1,16 +1,40 @@
 <!-- Hello, I'm Geraldo — Full Stack Software Engineer building automation tools, REST APIs and business systems. 👋
 ## Geraldo Costa  
 I'm a Full-stack developer always open to new challenges and ready to face changes.   -->
-## 🖖🏻 Hello, I'm Geraldo, a Full-stack Developer & Technical Writer.
+## 🖖🏻 Hello World! I'm Geraldo
 
- I'm from Brazil (🇧🇷). I've been working with technology for years, with a strong background in advanced computing, Linux servers, web development, automation and backend integrations.
-I'm a Full Stack Developer focused on building business systems, REST APIs and automation tools using PHP, Python, Flask, JavaScript and MySQL. I like turning complex problems into simple, useful and reliable software solutions.
+**Full-stack Developer | Technical Writer | Linux & Automation Enthusiast**
+
+```javascript
+const geraldo = {
+  location: "Brazil 🇧🇷",
+  role: "Full-stack Developer",
+  interests: [
+    "Backend Engineering",
+    "REST APIs & Integrations",
+    "Linux & Infrastructure",
+    "Automation",
+    "Technical Writing"
+  ],
+  mindset: "Build it simple. Make it reliable."
+};
+```
+
+I'm a developer with years of hands-on experience in software development, Linux environments, infrastructure and system integrations.
+
+I enjoy designing and building **business applications, RESTful APIs, backend services and automation tools**, turning complex technical challenges into clean, practical and maintainable solutions.
+
+My work spans the entire development lifecycle, from backend architecture and database design to frontend interfaces, deployment and infrastructure.
+
+**💻 Tech Stack:** PHP · Python · JavaScript · MySQL · Linux · Docker · Git
+
+**⚡ What drives me:** Solving real-world problems, simplifying processes and building software that actually makes a difference.
+
+`// Keep learning. Keep building. Keep improving.`
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2c70ff&size=35&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Geraldo+Costa;I'm+a+front-end+Developer;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2c70ff&size=35&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Geraldo+Costa;I'm+a+front-end+Developer;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
 
 <div align="center">
 <!---
