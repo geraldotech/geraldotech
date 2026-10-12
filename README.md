@@ -1,130 +1,70 @@
-<!-- Hello, I'm Geraldo — Full Stack Software Engineer building automation tools, REST APIs and business systems. 👋
-## Geraldo Costa  
-I'm a Full-stack developer always open to new challenges and ready to face changes.   -->
-## 🖖🏻 Hello World! I'm Geraldo
+<div align="center">
 
-**Full-stack Developer | Technical Writer | Linux & Automation Enthusiast**
+# 🖖🏻 Hello, World! I'm Geraldo
+
+**Full-stack Software Engineer · Technical Writer · Linux & Automation Enthusiast**
+
+*Building useful software, simplifying complex workflows and automating what should never be manual.*
+
+[![Website](https://img.shields.io/badge/Website-geraldox.com-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://geraldox.com)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-374151?style=flat-square&logo=maildotru&logoColor=white)](mailto:geraldo.filho92@hotmail.com)
+
+</div>
+
+## `whoami`
+
+I'm a Brazil-based developer with years of hands-on experience in **business applications, backend engineering, REST APIs, automation and Linux infrastructure**.
+
+I work across the stack — from databases and integrations to interfaces, deployment and server environments. I also enjoy writing clear technical documentation that makes systems easier to understand and maintain.
 
 ```javascript
 const geraldo = {
   location: "Brazil 🇧🇷",
-  role: "Full-stack Developer",
-  interests: [
-    "Backend Engineering",
-    "REST APIs & Integrations",
-    "Linux & Infrastructure",
-    "Automation",
-    "Technical Writing"
-  ],
-  mindset: "Build it simple. Make it reliable."
+  focus: ["Backend Engineering", "Business Systems", "Automation"],
+  experience: ["REST APIs", "System Integrations", "Linux Infrastructure"],
+  values: ["Simplicity", "Reliability", "Maintainability"],
+  motto: "Build it simple. Make it reliable."
 };
 ```
 
-I'm a developer with years of hands-on experience in software development, Linux environments, infrastructure and system integrations.
+## `tech --stack`
 
-I enjoy designing and building **business applications, RESTful APIs, backend services and automation tools**, turning complex technical challenges into clean, practical and maintainable solutions.
+**Languages & web**
 
-My work spans the entire development lifecycle, from backend architecture and database design to frontend interfaces, deployment and infrastructure.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
-**💻 Tech Stack:** PHP · Python · JavaScript · MySQL · Linux · Docker · Git
+**Data, infrastructure & tools**
 
-**⚡ What drives me:** Solving real-world problems, simplifying processes and building software that actually makes a difference.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## `git log --oneline`
+
+- ⚙️ **Backend & integrations:** Designing APIs and connecting systems reliably.
+- 🧩 **Business software:** Turning operational needs into maintainable applications.
+- 🐧 **Linux & infrastructure:** Working with servers, deployments and development environments.
+- 🤖 **Automation:** Replacing repetitive tasks with practical tools and workflows.
+- 📝 **Technical writing:** Making complex technology easier to understand.
+
+## `git stats`
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=geraldotech&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
 
 `// Keep learning. Keep building. Keep improving.`
 
-
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2c70ff&size=35&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Geraldo+Costa;I'm+a+front-end+Developer;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
-
-<div align="center">
-<!---
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldotech&hide=html,php,batchfile,c&layout=compact&langs_count=7&theme=dark"/> -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=geraldotech&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
-
-
-<!---
-old top lags:
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldotech&layout=compact&langs_count=7&theme=dark"/>
-url to get changes:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrasfa&hide=html,php,bat&layout=compact&langs_count=7&theme=nord&bg_color=0D1017&hide_border=true"/>
---->
-  <!---
-  <div style="display: inline_block"><br>
-   <img align="center" alt="Geral-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Geral-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Geral-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Geral-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-   <img align="center" alt="Geral-CSS" height="30" width="65" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
- --->
-
-
- &nbsp;
-  &nbsp;
-   &nbsp;
-
- ```diff
-
-# sudo apt update
-! Geraldo Costa Filho
-
-+ Full Stack Software Engineer
-+ PHP | Python | JavaScript | MySQL
-+ Automation & Business Systems
-
-> Sistemas de Informação
-> Building web systems, REST APIs and automation tools
-
-- Bugs
-- Repetitive manual tasks
-
-@@ position: absolute; passion: relative; @@
-
-```
-
-  &nbsp;
-   &nbsp;
-  <!---
-  ## 🌐Connect with me:
-  <div align="center">
- <a href="https://geraldox.com" target="_blank"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href ="mailto:geraldo.filho92@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/geraldo-petronilo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-  -->
-
-## 🛠 Tools:
-
-<p align="center">
-     <img
-      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html logo"
-    />
-    <img
-      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-      alt="travis ci badge"
-    />
-    <img
-      src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-      alt="travis ci badge"
-    />
-    <img
-      src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&"
-      alt="travis ci badge"
-    />
-    <img
-      src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
-      alt=""
-    />
-    
-</p>
-
-
-
-<!---
-geraldotech/geraldotech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
